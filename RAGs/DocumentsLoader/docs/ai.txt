@@ -1,0 +1,12 @@
+Artificial Intelligence is changing the way businesses work.
+Machine learning allows computers to learn patterns from data.
+Generative AI can create text, images, code, and other content.
+Large Language Models are trained on large amounts of text data.
+RAG stands for Retrieval-Augmented Generation.
+RAG allows an AI system to retrieve information from external documents.
+Document loaders are used to load documents into a RAG pipeline.
+TextLoader is a simple LangChain document loader for text files.
+After loading, documents can be split into smaller chunks.
+These chunks can later be converted into embeddings.
+Embeddings can be stored in a vector database for similarity search.
+A retriever finds relevant chunks when the user asks a question.
